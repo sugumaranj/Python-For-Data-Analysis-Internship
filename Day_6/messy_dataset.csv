@@ -1,0 +1,6 @@
+cust_nm,sales_amt,age,region
+Alice,1500,28,South
+Bob,None,None,North
+Alice,1500,28,South
+Carol,900,None,None
+Dave,None,45,East
