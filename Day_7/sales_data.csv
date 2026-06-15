@@ -1,0 +1,8 @@
+OrderID,Region,Product,Sales,Quantity,Month
+1001,North,Laptop,"₹45,000",2,Jan
+1002,South,Phone,"₹18,000",5,Jan
+1003,East,Tablet,"₹22,000",3,Feb
+1004,North,Laptop,"₹45,000",1,Feb
+1005,West,Phone,"₹18,000",4,Mar
+1006,South,Tablet,"₹22,000",2,Mar
+1007,East,Laptop,"₹45,000",3,Mar
